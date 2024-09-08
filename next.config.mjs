@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    basePath: "/AI-Rate-My-Professor/",
+    basePath: "/AI-Rate-My-Professor",
     output: "export",
     reactStrictMode: true,
 };
