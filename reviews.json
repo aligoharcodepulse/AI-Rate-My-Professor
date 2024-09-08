@@ -1,0 +1,24 @@
+{
+    "reviews": [
+      {"professor": "Dr. Emily Chen", "subject": "Physics", "stars": 4, "review": "Excellent lecturer, but assignments can be challenging."},
+      {"professor": "Prof. Michael Johnson", "subject": "History", "stars": 5, "review": "Engaging and passionate about the subject. Highly recommended!"},
+      {"professor": "Dr. Sarah Thompson", "subject": "Biology", "stars": 3, "review": "Knowledgeable, but lectures can be dry at times."},
+      {"professor": "Prof. David Rodriguez", "subject": "Computer Science", "stars": 5, "review": "Clear explanations and very helpful during office hours."},
+      {"professor": "Dr. Amanda Lee", "subject": "Psychology", "stars": 4, "review": "Interesting course content, fair grader."},
+      {"professor": "Prof. Robert Taylor", "subject": "Economics", "stars": 2, "review": "Difficult to follow in class, not very responsive to emails."},
+      {"professor": "Dr. Jessica Brown", "subject": "Chemistry", "stars": 5, "review": "Amazing professor! Makes complex topics easy to understand."},
+      {"professor": "Prof. William Anderson", "subject": "Philosophy", "stars": 4, "review": "Thought-provoking lectures, but heavy workload."},
+      {"professor": "Dr. Rachel Martinez", "subject": "Sociology", "stars": 3, "review": "Decent teacher, but class discussions could be better managed."},
+      {"professor": "Prof. Christopher Wilson", "subject": "Mathematics", "stars": 5, "review": "Brilliant instructor, always willing to help students."},
+      {"professor": "Dr. Elizabeth Davis", "subject": "English Literature", "stars": 4, "review": "Insightful analysis of texts, but grading can be subjective."},
+      {"professor": "Prof. Thomas Moore", "subject": "Political Science", "stars": 3, "review": "Knowledgeable about the subject, but lectures can be monotonous."},
+      {"professor": "Dr. Olivia White", "subject": "Art History", "stars": 5, "review": "Passionate and makes the subject come alive. Great visual presentations."},
+      {"professor": "Prof. James Harris", "subject": "Mechanical Engineering", "stars": 4, "review": "Solid teaching style, practical assignments."},
+      {"professor": "Dr. Sophia Nguyen", "subject": "Linguistics", "stars": 5, "review": "Exceptional teacher, creates a supportive learning environment."},
+      {"professor": "Prof. Daniel Clark", "subject": "Business Administration", "stars": 2, "review": "Seems disorganized, often unprepared for class."},
+      {"professor": "Dr. Natalie Kim", "subject": "Neuroscience", "stars": 4, "review": "Challenging course, but Dr. Kim explains concepts well."},
+      {"professor": "Prof. Matthew Green", "subject": "Environmental Science", "stars": 5, "review": "Inspiring lecturer, great at connecting theory to real-world issues."},
+      {"professor": "Dr. Laura Scott", "subject": "French Language", "stars": 3, "review": "Good language skills, but could improve on teaching methods."},
+      {"professor": "Prof. Kevin Baker", "subject": "Statistics", "stars": 4, "review": "Clear explanations of difficult concepts, helpful feedback on assignments."}
+    ]
+  }
